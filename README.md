@@ -8,9 +8,10 @@ Placeholder Claude Code plugin.
 .claude-plugin/
   plugin.json        # plugin manifest
   marketplace.json   # local marketplace entry (for /plugin install)
-skills/<name>/SKILL.md   # custom skills not in ~/.claude/skills
-commands/hello.md    # /ai-plugin:hello
-agents/example-agent.md
+skills/jira-to-pr/SKILL.md   # Jira → PR flow (source of truth)
+commands/hello.md           # /ai-plugin:hello (placeholder)
+commands/jira-pr.md         # /ai-plugin:jira-pr <KEY> → skill
+agents/jira-to-pr.md        # main-thread agent wrapper → skill
 hooks/hooks.json
 ```
 
