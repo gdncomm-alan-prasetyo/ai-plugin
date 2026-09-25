@@ -1,0 +1,29 @@
+README.md
+  s_82005fd361f31e::t_46f0a263c6de9b 11-14
+commands/jira-pr.md
+  s_82005fd361f31e::t_46f0a263c6de9b 1-8
+agents/jira-to-pr.md
+  s_82005fd361f31e::t_85cea91c3531aa 1-2,4-5,7,9,12
+  s_82005fd361f31e::t_46f0a263c6de9b 3,6,8,10-11,13
+skills/jira-to-pr/SKILL.md
+  s_82005fd361f31e::t_46f0a263c6de9b 1-55,57-69,71,91-161,163-169
+  s_82005fd361f31e::t_55ee88e510c4df 70,72-90
+  s_82005fd361f31e::t_a9f6e4b21ec36b 56
+  s_82005fd361f31e::t_c355a1fb085f67 162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "1df3e297666d699c603f713573a8a4e2389e6b3a",
+  "prompts": {},
+  "sessions": {
+    "s_82005fd361f31e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a59a2aef-7f1b-4089-9d11-c346ee07bccc",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Alan Prasetyo <alan.prasetyo@gdn-commerce.com>"
+    }
+  }
+}
