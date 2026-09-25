@@ -1,0 +1,237 @@
+.claude-plugin/marketplace.json
+  s_82005fd361f31e::t_7ae6d5360e42ab 1-16
+.claude-plugin/plugin.json
+  s_82005fd361f31e::t_64ba394f943352 1-10
+README.md
+  s_82005fd361f31e::t_da00bd6e16b3e7 1-23
+agents/example-agent.md
+  s_82005fd361f31e::t_671b4d16c88969 1-6
+commands/hello.md
+  s_82005fd361f31e::t_fe7ed56f121f9a 1-5
+hooks/hooks.json
+  s_82005fd361f31e::t_996e331047d823 1-3
+skills/api-documentation-full/SKILL.md
+  s_82005fd361f31e::t_73a38a91825008 1-118
+skills/api-documentation-full/references/template.md
+  s_82005fd361f31e::t_9e1a13c1dc6d00 1-390
+skills/api-documentation-helper/SKILL.md
+  s_82005fd361f31e::t_c03c45b36de67e 1-32
+skills/api-documentation-helper/examples.md
+  s_82005fd361f31e::t_546725e398f210 1-429
+skills/api-documentation-lite/SKILL.md
+  s_82005fd361f31e::t_3864497e2bb3a7 1-68
+skills/api-documentation-lite/references/template.md
+  s_82005fd361f31e::t_b75f2549a44724 1-232
+skills/automation-repo-orientation/SKILL.md
+  s_82005fd361f31e::t_72710a28a1f8a1 1-130
+skills/be-review-context/SKILL.md
+  s_82005fd361f31e::t_8905479731cf01 1-320
+skills/caveman-formatter/SKILL.md
+  s_82005fd361f31e::t_71f3859d1d02f5 1-82
+skills/create-ui-documentation/SKILL.md
+  s_82005fd361f31e::t_f259267f75de3c 1-219
+skills/deploy-qa2/SKILL.md
+  s_82005fd361f31e::t_5e421d29cc2963 1-136
+skills/docs-architecture/SKILL.md
+  s_82005fd361f31e::t_ed1933f26bc16d 1-157
+skills/docs-architecture/references/example.md
+  s_82005fd361f31e::t_3b7c8cfc93da4c 1-99
+skills/docs-architecture/scripts/collect_facts.py
+  s_82005fd361f31e::t_2f9181357210b1 1-125
+skills/docs-code-to-openapi/SKILL.md
+  s_82005fd361f31e::t_ae088129377742 1-253
+skills/docs-code-to-openapi/references/example.md
+  s_82005fd361f31e::t_29e296156b46be 1-218
+skills/docs-code-to-openapi/scripts/generate_openapi.py
+  s_82005fd361f31e::t_7a165962560b90 1-1350
+skills/docs-database/SKILL.md
+  s_82005fd361f31e::t_22eb6e95d0bd81 1-173
+skills/docs-database/references/example.md
+  s_82005fd361f31e::t_2109a95f1dc329 1-72
+skills/docs-database/scripts/generate_db_docs.py
+  s_82005fd361f31e::t_a4684f025b1825 1-838
+skills/docs-domain/SKILL.md
+  s_82005fd361f31e::t_d42dd070cdc7f5 1-133
+skills/docs-domain/references/example.md
+  s_82005fd361f31e::t_5e8b8b348d9dac 1-92
+skills/docs-github-markdown-to-confluence/SKILL.md
+  s_82005fd361f31e::t_00d5cda8093e89 1-336
+skills/docs-github-markdown-to-confluence/references/storage-format.md
+  s_82005fd361f31e::t_cb6d03f22099f9 1-129
+skills/docs-github-markdown-to-confluence/scripts/confluence_client.py
+  s_82005fd361f31e::t_c083e0f3e1b725 1-286
+skills/docs-github-markdown-to-confluence/scripts/md_to_storage.py
+  s_82005fd361f31e::t_05c6a383de58e1 1-368
+skills/docs-github-markdown-to-confluence/scripts/preview.py
+  s_82005fd361f31e::t_1436cbe3a363e6 1-165
+skills/docs-github-markdown-to-confluence/scripts/sync_confluence.py
+  s_82005fd361f31e::t_caf950d3a61e2a 1-868
+skills/docs-openapi-to-markdown/SKILL.md
+  s_82005fd361f31e::t_a09c041bb3fc67 1-169
+skills/docs-openapi-to-markdown/scripts/generate_markdown_docs.py
+  s_82005fd361f31e::t_33bbf85a1dedde 1-669
+skills/fe-debug/SKILL.md
+  s_82005fd361f31e::t_882c73ee813c59 1-178
+skills/fe-engineering/SKILL.md
+  s_82005fd361f31e::t_f13f90e55fa337 1-241
+skills/fe-integration-test/SKILL.md
+  s_82005fd361f31e::t_d7f4d6a5fba7cd 1-402
+skills/fe-integration-test/patterns/desktop-mobile.md
+  s_82005fd361f31e::t_076c300becce57 1-43
+skills/fe-integration-test/patterns/mocks-and-failure-states.md
+  s_82005fd361f31e::t_b719a34ce7a605 1-82
+skills/fe-integration-test/patterns/modal-and-toast.md
+  s_82005fd361f31e::t_6cabb0ee6818fb 1-81
+skills/fe-integration-test/patterns/scroll-delay-and-setup.md
+  s_82005fd361f31e::t_1a4a7bb69dfb68 1-80
+skills/fe-integration-test/patterns/url-first-minimal.md
+  s_82005fd361f31e::t_d227bff20aae64 1-85
+skills/fe-integration-test/references/blibli-tools-utils.md
+  s_82005fd361f31e::t_d7b11abdb7f532 1-54
+skills/fe-integration-test/references/navigation.md
+  s_82005fd361f31e::t_60d8d94647caab 1-40
+skills/fe-integration-test/references/project-setup-helpers.md
+  s_82005fd361f31e::t_e22bc3455640d1 1-64
+skills/fe-integration-test/references/snapshot.md
+  s_82005fd361f31e::t_49624484652a26 1-47
+skills/fe-integration-test/references/tool-documentation.md
+  s_82005fd361f31e::t_ec79b94a4ee4e4 1-549
+skills/fe-integration-test/references/url-and-host.md
+  s_82005fd361f31e::t_345ed69af48529 1-37
+skills/fe-pr-message/SKILL.md
+  s_82005fd361f31e::t_72daff1aaaf9bc 1-265
+skills/generate-tests/SKILL.md
+  s_82005fd361f31e::t_8fc0a0e36684c2 1-300
+skills/generate-tests/references/test-patterns.md
+  s_82005fd361f31e::t_d33670242eb3cc 1-405
+skills/get-deployment-version/README.md
+  s_82005fd361f31e::t_961b6a7c067560 1-59
+skills/get-deployment-version/SKILL.md
+  s_82005fd361f31e::t_4e003a7049f9f8 1-42
+skills/get-deployment-version/config.yml
+  s_82005fd361f31e::t_d2b57c369efa73 1-20
+skills/get-deployment-version/get-deployment-version.sh
+  s_82005fd361f31e::t_05abd872ac1ed6 1-442
+skills/get-deployment-version/run.sh
+  s_82005fd361f31e::t_e967de9a26e894 1-295
+skills/jira-worklog/SKILL.md
+  s_82005fd361f31e::t_19f3191001427b 1-174
+skills/jira-worklog/scripts/worklog.py
+  s_82005fd361f31e::t_7f6218f473dff2 1-402
+skills/parallel-integration-tests/SKILL.md
+  s_82005fd361f31e::t_38ff9c81233988 1-380
+skills/plan-to-jira-creation/SKILL.md
+  s_82005fd361f31e::t_a95097f1d0b05d 1-174
+skills/plan-to-jira-creation/references/breakdown-checklist.md
+  s_82005fd361f31e::t_d90c95da640125 1-67
+skills/pr-fix-watch/README.md
+  s_82005fd361f31e::t_6040a0fc5a48e3 1-95
+skills/pr-fix-watch/SKILL.md
+  s_82005fd361f31e::t_315f81c506a4d4 1-139
+skills/pr-message-generator/SKILL.md
+  s_82005fd361f31e::t_139674ccce6668 1-298
+skills/pr-review-watch/README.md
+  s_82005fd361f31e::t_33c831568dbe92 1-121
+skills/pr-review-watch/SKILL.md
+  s_82005fd361f31e::t_8edbe6868f43c1 1-189
+skills/prepare-pr-for-preprod-prod/SKILL.md
+  s_82005fd361f31e::t_e770440f0cddef 1-290
+skills/qa-check/SKILL.md
+  s_82005fd361f31e::t_467af5050a1c80 1-124
+skills/qa-jenkins-check/SKILL.md
+  s_82005fd361f31e::t_5d0ee5269f7285 1-176
+skills/repo-orientation/SKILL.md
+  s_82005fd361f31e::t_23d874a3b2a50d 1-265
+skills/run-ui-jenkins-get-sonar-report/SKILL.md
+  s_82005fd361f31e::t_76f3bf4214dd78 1-107
+skills/spring-api-load-test/SKILL.md
+  s_82005fd361f31e::t_629007eb7d8696 1-376
+skills/spring-cleanup-dependencies/SKILL.md
+  s_82005fd361f31e::t_5e9ef140691b0d 1-825
+skills/spring-fix-maven-enforcer/SKILL.md
+  s_82005fd361f31e::t_5470a52cf2d611 1-141
+skills/spring-fix-trivy-vulnerability/SKILL.md
+  s_82005fd361f31e::t_acf562be0362c4 1-102
+skills/spring-graceful-shutdown/SKILL.md
+  s_82005fd361f31e::t_7c33cb232f5b68 1-910
+skills/spring-improve-integration-tests/SKILL.md
+  s_82005fd361f31e::t_76453df2faa043 1-135
+skills/spring-review-api-docs/SKILL.md
+  s_82005fd361f31e::t_ac423a83940f3e 1-100
+skills/spring-review-breaking-changes/SKILL.md
+  s_82005fd361f31e::t_2f66d949f2efdf 1-232
+skills/spring-review-build-runtime/SKILL.md
+  s_82005fd361f31e::t_5bf0d43116ce5a 1-119
+skills/spring-review-business-logic/SKILL.md
+  s_82005fd361f31e::t_32ce3023b99540 1-180
+skills/spring-review-code-formatter/SKILL.md
+  s_82005fd361f31e::t_0c36690fcc282b 1-358
+skills/spring-review-downstream-impact/SKILL.md
+  s_82005fd361f31e::t_9f6487d02de8cf 1-102
+skills/spring-review-idempotency/SKILL.md
+  s_82005fd361f31e::t_7b4db344c9e358 1-299
+skills/spring-review-integration-tests/SKILL.md
+  s_82005fd361f31e::t_52cb1d686ef9e0 1-412
+skills/spring-review-kafka-middleware/SKILL.md
+  s_82005fd361f31e::t_b76b0205566602 1-136
+skills/spring-review-migration-safety/SKILL.md
+  s_82005fd361f31e::t_3234859c005aef 1-141
+skills/spring-review-observability/SKILL.md
+  s_82005fd361f31e::t_b71871a764192c 1-118
+skills/spring-review-pom-safety/SKILL.md
+  s_82005fd361f31e::t_8ad97b604be234 1-183
+skills/spring-review-query-performance/SKILL.md
+  s_82005fd361f31e::t_c3b39644840c82 1-263
+skills/spring-review-security/SKILL.md
+  s_82005fd361f31e::t_833b31c4d47654 1-153
+skills/spring-review-smart/SKILL.md
+  s_82005fd361f31e::t_d35b652b920109 1-519
+skills/spring-review-thread-safety/SKILL.md
+  s_82005fd361f31e::t_892769b3333e1b 1-126
+skills/spring-upgrade-java21/SKILL.md
+  s_82005fd361f31e::t_378e666e42d451 1-442
+skills/system-catalog/SKILL.md
+  s_82005fd361f31e::t_01c41dbf9d50ab 1-136
+skills/team-pr-review/SKILL.md
+  s_82005fd361f31e::t_a6e15c7aa558aa 1-101
+skills/testcase-baseline/SKILL.md
+  s_82005fd361f31e::t_6bbf01e0224182 1-263
+skills/testcase-from-jira/SKILL.md
+  s_82005fd361f31e::t_ae3c3a072dcb28 1-285
+skills/testcase-render/SKILL.md
+  s_82005fd361f31e::t_47d9698f3ca4c3 1-308
+skills/testcase-render/references/test-case-rules.md
+  s_82005fd361f31e::t_956125a77b5e80 1-137
+skills/testcase-render/scripts/render_test_cases.py
+  s_82005fd361f31e::t_9ab7d06c88884f 1-508
+skills/testcase-render/scripts/sync_test_tiger.py
+  s_82005fd361f31e::t_3e7b6b4834f4fe 1-315
+skills/testcase-render/scripts/test_tiger_client.py
+  s_82005fd361f31e::t_d0b983d2651c51 1-380
+skills/ticket-breakdown/SKILL.md
+  s_82005fd361f31e::t_21122a26cc3c46 1-442
+skills/ticket-breakdown/references/jira-description-format.md
+  s_82005fd361f31e::t_8d746ca488c524 1-107
+skills/trigger-jenkins-build/SKILL.md
+  s_82005fd361f31e::t_152f8d83b97e3d 1-85
+skills/write-release-notes/SKILL.md
+  s_82005fd361f31e::t_38d169721d7d42 1-304
+skills/write-release-notes/references/template.md
+  s_82005fd361f31e::t_b68c612f091aea 1-166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "342cb1f620c71448988f34ac64c4c592e2a2228b",
+  "prompts": {},
+  "sessions": {
+    "s_82005fd361f31e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a59a2aef-7f1b-4089-9d11-c346ee07bccc",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Alan Prasetyo <alan.prasetyo@gdn-commerce.com>"
+    }
+  }
+}
