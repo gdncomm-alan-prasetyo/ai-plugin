@@ -8,7 +8,7 @@ Placeholder Claude Code plugin.
 .claude-plugin/
   plugin.json        # plugin manifest
   marketplace.json   # local marketplace entry (for /plugin install)
-skills/<name>/SKILL.md   # 62 skills copied from ~/.claude/skills
+skills/<name>/SKILL.md   # custom skills not in ~/.claude/skills
 commands/hello.md    # /ai-plugin:hello
 agents/example-agent.md
 hooks/hooks.json
