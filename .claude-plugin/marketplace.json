@@ -1,0 +1,16 @@
+{
+  "name": "ai-plugin-marketplace",
+  "owner": {
+    "name": "IAM Team"
+  },
+  "metadata": {
+    "description": "IAM Team Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "ai-plugin",
+      "source": "./",
+      "description": "Placeholder Claude Code plugin for IAM Team"
+    }
+  ]
+}

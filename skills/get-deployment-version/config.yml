@@ -1,0 +1,20 @@
+repos:
+  # Add one entry per service. Example:
+  # - name: My Service
+  #   owner: gdncomm
+  #   repo: argocd-gks-my-service-npci
+
+dev_branch: dev
+qa_branch: qa
+prod_branch: prd
+
+# Canary branches (optional)
+dev_canary_branch: dev-canary
+qa_canary_branch: qa-canary
+prod_canary_branch: prd-canary
+
+file_path: deployment/{branch}/values.yaml
+tag_key: tag
+
+# Output settings
+generate_report: true  # Generate markdown report file

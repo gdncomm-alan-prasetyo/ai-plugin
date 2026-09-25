@@ -1,0 +1,10 @@
+{
+  "name": "ai-plugin",
+  "version": "0.1.0",
+  "description": "Placeholder Claude Code plugin for IAM Team",
+  "author": {
+    "name": "Alan Prasetyo",
+    "email": "alan.prasetyo@gdn-commerce.com"
+  },
+  "keywords": ["iam", "placeholder"]
+}
