@@ -1,0 +1,19 @@
+README.md
+  s_82005fd361f31e::t_30589dd63622b2 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "40f3b10d78a9ff911207c369b0c258d419d5095f",
+  "prompts": {},
+  "sessions": {
+    "s_82005fd361f31e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a59a2aef-7f1b-4089-9d11-c346ee07bccc",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Alan Prasetyo <alan.prasetyo@gdn-commerce.com>"
+    }
+  }
+}
