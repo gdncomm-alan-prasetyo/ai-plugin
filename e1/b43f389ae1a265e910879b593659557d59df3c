@@ -1,0 +1,26 @@
+skills/snapshot-deploy-qa2/SKILL.md
+  s_82005fd361f31e::t_fd978df9bf650d 5-13,18,23
+  s_82005fd361f31e::t_77376522603255 50-63,66,75,81,84
+commands/jira-pr-qa2.md
+  s_82005fd361f31e::t_15903af5efb150 1-8
+skills/jira-pr-deploy-qa2/SKILL.md
+  s_82005fd361f31e::t_c20c0284e5a231 1-83
+README.md
+  s_82005fd361f31e::t_f68371a3b177f0 13,17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "e1b43f389ae1a265e910879b593659557d59df3c",
+  "prompts": {},
+  "sessions": {
+    "s_82005fd361f31e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a59a2aef-7f1b-4089-9d11-c346ee07bccc",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Alan Prasetyo <alan.prasetyo@gdn-commerce.com>"
+    }
+  }
+}
