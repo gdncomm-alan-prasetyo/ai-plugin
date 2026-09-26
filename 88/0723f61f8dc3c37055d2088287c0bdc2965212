@@ -1,0 +1,23 @@
+README.md
+  s_82005fd361f31e::t_bd3b3431d4c48f 11-16
+skills/snapshot-deploy-qa2/SKILL.md
+  s_82005fd361f31e::t_94ddb844984a5c 1-68
+commands/snapshot-qa2.md
+  s_82005fd361f31e::t_23a96217e54a7d 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "880723f61f8dc3c37055d2088287c0bdc2965212",
+  "prompts": {},
+  "sessions": {
+    "s_82005fd361f31e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a59a2aef-7f1b-4089-9d11-c346ee07bccc",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Alan Prasetyo <alan.prasetyo@gdn-commerce.com>"
+    }
+  }
+}
